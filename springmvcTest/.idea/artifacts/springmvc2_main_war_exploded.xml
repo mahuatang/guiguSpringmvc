@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springmvc2_main:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/springmvc2_main_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springmvc2_main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Gradle: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-context:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.apache.taglibs:taglibs-standard-impl:1.2.5" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-core:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-jcl:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-web:4.3.10.RELEASE" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="springmvc2_main/web/Web Gradle : springmvc2-1.0-SNAPSHOT.war" />
+    </root>
+  </artifact>
+</component>
